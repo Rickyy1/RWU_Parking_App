@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88762051400",
+    "project_id": "rwu-parking-app",
+    "storage_bucket": "rwu-parking-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88762051400:android:a36bcbc85922018305a17d",
+        "android_client_info": {
+          "package_name": "com.application.rwuparkingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRzqnzTN5LS1neJbX_1hOY9o5Jx-hXNqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
